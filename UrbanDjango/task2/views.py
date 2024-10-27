@@ -11,5 +11,5 @@ def func_temp(request):
     return render(request, 'second_task/func_template.html')
 
 
-def m_p(request):
-    return HttpResponse('Главная Страница')
+#def m_p(request):
+    #return HttpResponse('Главная Страница')
